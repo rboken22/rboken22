@@ -1,31 +1,29 @@
 # Hi, I'm Rajeev 👋
 
-I'm a data-driven professional at the intersection of **data analytics, sustainability, and digital marketing**. I enjoy turning messy real-world data into clear insights, visuals, and stories that help businesses make better, climate-conscious decisions.[cite:1][cite:4][cite:5]
+I'm a data-driven professional at the intersection of **data analytics, sustainability, and digital marketing**. I enjoy turning messy real-world data into clear insights, visuals, and stories that help businesses make better, climate-conscious decisions.
 
 ---
 
 ## What I Do
 
 - **Data & BI**: Cleaning and structuring data, building dashboards, and tracking KPIs in tools like Excel, Power BI, and Tableau.[cite:5]
-- **Sustainability & ESG**: Worked on **GHG accounting**, **CPCB RTDMS data**, and **life cycle assessment** to support ESG reporting and sustainability analytics.[cite:1][cite:4]
-- **Marketing & Content**: Running social media campaigns, working with influencers, and creating data-backed content and reports for brands at a marketing agency.[cite:1][cite:6]
-
+- **Sustainability & ESG**: Worked on **GHG accounting**, **CPCB RTDMS data**, and **life cycle assessment** to support ESG reporting and sustainability analytics.
+- **Marketing & Content**: Running social media campaigns, working with influencers, and creating data-backed content and reports for brands at a marketing agency.
 ---
 
 ## Current Focus
 
 - Building a portfolio of **data and sustainability projects** (dashboards, ESG analyses, small experiments with climate and business data).
 - Strengthening skills in **analytics for climate/ESG**, **digital marketing performance analysis**, and **storytelling with data**.
-- Exploring opportunities in **sustainability analytics, ESG data, and climate-tech / impact-driven roles**.[cite:1][cite:4]
-
+- Exploring opportunities in **sustainability analytics, ESG data, and climate-tech / impact-driven roles**.
 ---
 
 ## Skills & Tools
 
-- **Data & Analytics**: Excel, Google Sheets, basic SQL, Python (beginner–intermediate), data cleaning and preprocessing.[cite:5]
-- **BI & Visualization**: Power BI, Tableau, charts and dashboards for non-technical stakeholders.[cite:5]
-- **Sustainability / ESG**: GHG data handling, CPCB RTDMS datasets, basic life cycle assessment concepts.[cite:1][cite:4]
-- **Marketing & Communication**: Campaign analysis, social media reporting, client servicing, presentation decks.[cite:1][cite:6]
+- **Data & Analytics**: Excel, Google Sheets, basic SQL, Python (beginner–intermediate), data cleaning and preprocessing.
+- **BI & Visualization**: Power BI, Tableau, charts and dashboards for non-technical stakeholders.
+- **Sustainability / ESG**: GHG data handling, CPCB RTDMS datasets, basic life cycle assessment concepts.
+- **Marketing & Communication**: Campaign analysis, social media reporting, client servicing, presentation decks.
 
 ---
 
@@ -38,8 +36,7 @@ I'm a data-driven professional at the intersection of **data analytics, sustaina
 - Simple, well-documented projects that focus on:
   - Clear problem statements
   - Clean, readable code and notebooks
-  - Actionable insights and visualizations[web:11][web:13]
-
+  - Actionable insights and visualizations
 ---
 
 ## Connect With Me
