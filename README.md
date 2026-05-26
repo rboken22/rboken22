@@ -6,7 +6,7 @@ I'm a data-driven professional at the intersection of **data analytics, sustaina
 
 ## What I Do
 
-- **Data & BI**: Cleaning and structuring data, building dashboards, and tracking KPIs in tools like Excel, Power BI, and Tableau.[cite:5]
+- **Data & BI**: Cleaning and structuring data, building dashboards, and tracking KPIs in tools like Excel, Power BI, and Tableau.
 - **Sustainability & ESG**: Worked on **GHG accounting**, **CPCB RTDMS data**, and **life cycle assessment** to support ESG reporting and sustainability analytics.
 - **Marketing & Content**: Running social media campaigns, working with influencers, and creating data-backed content and reports for brands at a marketing agency.
 ---
